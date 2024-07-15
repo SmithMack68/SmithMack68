@@ -3,6 +3,9 @@
 <!--
 **SmithMack68/SmithMack68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![javascript-39404](https://github.com/user-attachments/assets/cae33b68-eda7-41b2-9b21-4052fbad37cb)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
