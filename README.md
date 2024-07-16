@@ -1,10 +1,27 @@
 ### Hi there 👋
 
+
 <!--
 **SmithMack68/SmithMack68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![javascript-39404](https://github.com/user-attachments/assets/cae33b68-eda7-41b2-9b21-4052fbad37cb)
 
+<style>
+  .small-square {
+    width: 20px;
+  }
+  .medium-rounded {
+    width: 50px;
+    border-radius: 10%;
+  }
+  .large-circular {
+    width: 100px;
+    border-radius: 50%;
+  }
+</style>
+
+<img src="images/svg/reddit.svg" class="small-square" />
+<img src="images/svg/reddit.svg" class="medium-rounded" />
+<img src="images/svg/reddit.svg" class="large-circular" />
 
 Here are some ideas to get you started:
 
